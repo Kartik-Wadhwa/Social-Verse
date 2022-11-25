@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Social-Verse/static/css/main.99ee7279.css",
+    "main.js": "/Social-Verse/static/js/main.0aa8c633.js",
+    "static/media/left-arrow.svg": "/Social-Verse/static/media/left-arrow.53878c51904c34f1288e46174c107c57.svg",
+    "static/media/right-arrow.svg": "/Social-Verse/static/media/right-arrow.8b8fb639d7ed68731e5b073c0700d3bf.svg",
+    "index.html": "/Social-Verse/index.html",
+    "main.99ee7279.css.map": "/Social-Verse/static/css/main.99ee7279.css.map",
+    "main.0aa8c633.js.map": "/Social-Verse/static/js/main.0aa8c633.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99ee7279.css",
+    "static/js/main.0aa8c633.js"
+  ]
+}
